@@ -1,0 +1,1 @@
+# Manifesto-of-Project-Prometheus-AI-Library-of-Alexandria-2.0--knowledge-for-the-masses
