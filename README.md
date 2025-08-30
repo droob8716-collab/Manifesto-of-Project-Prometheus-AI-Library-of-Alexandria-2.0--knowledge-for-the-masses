@@ -126,3 +126,4 @@ We call on:
 This project is licensed under an **Open Knowledge License**. Everything here is free to share, fork, and build upon, forever.
 
 ---
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8abd473a-07fb-42c1-84f8-c8107fed4b3d" />
